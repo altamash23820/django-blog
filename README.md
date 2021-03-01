@@ -18,7 +18,7 @@ cd blog_app
 pip install django[argon2]
 pip install Pillow==2.2.1
 ```
-#### After running commands as per OS run:
+#### After running commands use following commands:
 ```
 python manage.py migrate
 python manage.py makemigrations
